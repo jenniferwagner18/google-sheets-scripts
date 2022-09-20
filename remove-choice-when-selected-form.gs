@@ -5,7 +5,7 @@ students for signing up for presentations.
 The following Sheet includes this code, but you will need to add a trigger:
 https://docs.google.com/spreadsheets/d/1dRU4dnsazVqqNbWVr14kUb1QfuaXpLJUjVY4txELzdQ/copy?usp=sharing
 
-To add a trigger in Sheets, go to Tools -> Script Editor -> Trigger (left sidebar): 
+To add a trigger in Sheets, go to Extensions -> Apps Script -> Trigger (left sidebar): 
 + Add Trigger with On form submit under Select event type (leave the rest as they are)
 
 On the spreadsheet, go to Tools and Create a Form to link the Sheet and Form. The Options 
